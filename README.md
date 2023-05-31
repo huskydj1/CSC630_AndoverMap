@@ -47,7 +47,7 @@ edge_information = [
 NUM_NODES = 18
 ```
 
-4. Run the Simulation to find the optimal paths!
+## 4. Run the Simulation to find the optimal paths!
 ```
 # Instantiating an object of andovermaps
 map_simulation = simulation(edge_information, NUM_NODES)
