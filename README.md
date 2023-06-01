@@ -60,3 +60,9 @@ ENDING_NODE = 16
 optimal_path = map_simulation.simulate(STARTING_NODE, ENDING_NODE)
 print(optimal_path)
 ```
+
+## 5. Future Steps
+
+Starting as a project for our high-school computer science class, Andover Maps currently only weighs paths based on their congestion and based on their length. Ideally, we'd like to see weights that also consider factors like weathers and time of day! We'd also like to consider other distributions besides Poisson distributions, as different flavors have different built-in assumptions. 
+
+Any contributions to this project are thus always welcome! Please keep in mind that our [Code of Conduct]() outlines the standards users should uphold while interacting with the library. 
